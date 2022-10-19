@@ -484,6 +484,16 @@ header.sticky{
 	visibility: hidden;
 } */
 
+.img-box{
+	width: 385px;
+	height: 420px;
+	background: url(../img/tours-1.jpg);
+	border-radius: 10px;
+	background-size:cover;
+	background-position: center;
+	margin: 0;
+}
+
 .up{
 	position: fixed;
 	right: -40px;
